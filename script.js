@@ -91,7 +91,7 @@ function sendMessage() {
         loadingElement.style.display = 'block';
     }
 
-    const apiKey = '你的API Key';
+    const apiKey = 'sk-572603078c094737a2dfcfc7d388a966';
     const endpoint = 'https://api.deepseek.com/chat/completions';
 
     const payload = {
